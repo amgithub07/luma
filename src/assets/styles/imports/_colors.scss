@@ -1,14 +1,15 @@
+$lu-primary-dark: #343798 !default;
 $lu-primary: #696DD3 !default;
 
 $lu-accent-dark: #7D5F21 !default;
 $lu-accent: #AE9143 !default;
-
+$lu-accent-light: #E7D490 !default;
 
 
 $lu-colors: (
 
   "lu-primary":$lu-primary,
   "lu-accent-dark":$lu-accent-dark,
-  "lu-accent":$lu-accent
-  
+  "lu-accent":$lu-accent,
+  "lu-accent-light":$lu-accent-light
 ) !default;

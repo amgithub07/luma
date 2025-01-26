@@ -5,6 +5,7 @@ import router from "./router";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import "aos/dist/aos.css";
 import "@/assets/styles/all.scss";
+import "bootstrap";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
