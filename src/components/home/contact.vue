@@ -11,7 +11,8 @@
                 <h3 class="">立即行動，打造專屬品牌官網！</h3>
                 <div class="mt-8">
                     <a class="btn btn-lu-primary px-12 py-6"
-                        href="https://docs.google.com/forms/d/e/1FAIpQLScVRILHC1p5zlV4s3JO1Xzv-PpBVxh2LaTNu4Vpmy_PhT261g/viewform">填寫需求單</a>
+                        href="https://docs.google.com/forms/d/e/1FAIpQLScVRILHC1p5zlV4s3JO1Xzv-PpBVxh2LaTNu4Vpmy_PhT261g/viewform"
+                        target="_blank">填寫需求單</a>
                 </div>
             </div>
             <!---->
