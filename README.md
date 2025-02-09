@@ -1,5 +1,3 @@
-# Vue 3 + Vite
+# luma
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+[figma](https://www.figma.com/design/Rc7ZKUAsn4pif5prsbOMCz/luma?node-id=191-3&p=f&t=z12j8sWDqxcQ5sd9-0)
